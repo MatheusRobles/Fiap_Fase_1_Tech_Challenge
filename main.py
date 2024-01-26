@@ -97,7 +97,7 @@ with tabs[0]:
         top_paises_maior_preco_litro_por_regiao(Tabela_Exportacao_Vinhos, y_col='Preço do Litro', start_year=2012, end_year=2022, min_quantity=10000,altura_grafico=500, largura_grafico=600)
 
     st.markdown(
-        "Concluímos nossa análise com não apenas números, mas com estratégias práticas que moldarão a expansão das exportações de vinhos brasileiros. Nossa jornada pelos dados, embasada em insights, aponta para um caminho promissor que nos conduzirá aop sucesso global."
+        "Concluímos nossa análise com não apenas números, mas com estratégias práticas que moldarão a expansão das exportações de vinhos brasileiros. Nossa jornada pelos dados, embasada em insights, aponta para um caminho promissor que nos conduzirá ao sucesso global."
     )
     st.markdown(
         "Na fase final da análise, ao compararmos diferentes abordagens, a aplicação da filtragem pela quantidade em litros revela oportunidades de mercado alinhadas com nossos objetivos de crescimento. O preço médio do litro, combinado com volumes substanciais de exportação, destaca mercados promissores que merecem nossa atenção estratégica. Nossa trajetória nos leva a considerar não apenas os maiores compradores, mas também aqueles que representam verdadeiros potenciais de expansão para nossos vinhos brasileiros."
